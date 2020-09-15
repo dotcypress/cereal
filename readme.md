@@ -1,9 +1,8 @@
 # Cereal
 
-<img src="docs/cereal.gif" />
 Compact, CP2102N based, USB-C to UART bridge.
 
-<img src="docs/cereal.jpg" width="50%" />
+<img src="docs/cereal.gif" />
 
 ## CP2102N Features
 
@@ -14,10 +13,12 @@ Compact, CP2102N based, USB-C to UART bridge.
 
 ## Resources
 
-- [Order board on Oshpark](https://oshpark.com/shared_projects/K6b0akiH)
+- [Order board on Oshpark](https://oshpark.com/shared_projects/K6b0akiH)(🚨 Important: choose 0.8mm thickness board)
 - [Schematics](docs/schematics.pdf)
 - [Gerber files](gergers)
 - [BOM](docs/bom.csv)
+
+<img src="docs/cereal.jpg" width="50%" />
 
 ## License
 
