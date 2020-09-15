@@ -15,7 +15,7 @@ Compact, CP2102N based, USB-C to UART bridge.
 
 - [Order board on Oshpark](https://oshpark.com/shared_projects/K6b0akiH)(🚨 Important: choose 0.8mm thickness board)
 - [Schematics](docs/schematics.pdf)
-- [Gerber files](gergers)
+- [Gerber files](gerber)
 - [BOM](docs/bom.csv)
 
 <img src="docs/cereal.jpg" width="50%" />
